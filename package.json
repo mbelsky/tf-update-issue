@@ -1,0 +1,16 @@
+{
+  "name": "tf-update-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "export DEBUG='*' && /usr/bin/env node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.35.0"
+  }
+}
